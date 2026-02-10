@@ -1,4 +1,3 @@
-# Kitsune.tr Hosting, VDS, VPS ve Sunucu Barındırma
 <p align="center">
   <img style="width:346px;"src="https://kitsune.tr/kitsune_logo.png" width="300" alt="Kitsune Hosting">
 </p>
