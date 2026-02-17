@@ -27,27 +27,27 @@ Dürüstlük, şeffaflık ve adil hizmet anlayışıyla hareket ederek, teknoloj
 ## İletişim
 <p align="center">
   <a href="https://kitsune.tr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/google.svg" width="32" alt="Kitsune.tr"/>
+    <img src="https://cdn.simpleicons.org/google/black/white" width="32" alt="Kitsune.tr"/>
   </a>
   &nbsp;
   <a href="https://github.com/Kitsunetr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/black/white" width="32" alt="GitHub"/>
   </a>  
   &nbsp;
   <a href="https://www.instagram.com/kitsune.tr/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="32" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/black/white" width="32" alt="Instagram"/>
   </a>  
   &nbsp;
   <a href="https://x.com/ktsunetr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="32" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/black/white" width="32" alt="X"/>
   </a>  
   &nbsp;
   <a href="https://www.linkedin.com/company/kitsunetr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/black/white" width="32" alt="LinkedIn"/>
   </a>  
   &nbsp;
   <a href="https://wa.me/902129930131" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" width="32" alt="WhatsApp"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/black/white" width="32" alt="WhatsApp"/>
   </a>
 </p>
 
